@@ -1,0 +1,8 @@
+*.csv
+*.nc
+.DS_Store
+*.xlsx
+*.png
+*.txt
+
+.assignment-3/Data/.
