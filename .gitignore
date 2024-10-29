@@ -4,5 +4,6 @@
 *.xlsx
 *.png
 *.txt
+*.parquet
 
 .assignment-3/Data/.
